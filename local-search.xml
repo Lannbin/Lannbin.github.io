@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>接下来?</title>
+    <link href="/2021/04/23/Whats-new/"/>
+    <url>/2021/04/23/Whats-new/</url>
+    
+    <content type="html"><![CDATA[<p>2021/4/23 14:57</p><ul><li>博客搭建想法：<ul><li>​    侧边栏：包含头像、基本信息等等；悬浮、圆角</li><li>​    评论系统</li></ul></li><li>预定文章：<ul><li>​    桌面布置的经历与感悟</li><li>​    学习：<ul><li>​        前端三大件</li><li>​        博客完善</li></ul></li></ul></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>说说</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>此为何处</title>
+    <link href="/2021/04/19/My-New-Post/"/>
+    <url>/2021/04/19/My-New-Post/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p align="left"><font size=2>如果你没见过这些，也许你不会想要改变——并不是说改变不好，毕竟人往高处走。</font></p><p align="left"><font size=2>改变自己，第一步是诚实面对当下的自己。</font></p></blockquote><p><font size=2><a href="https://www.zhihu.com/question/392559297/answer/1201663846">——《年轻人的消极态度|王俊俊》</a></font></p><span id="more"></span><p>想有个博客也不是什么奇怪或者心血来潮的事情了。</p><p>小时候我常用的是qq空间，喜欢转发、写点日志，后来慢慢遗弃，逐渐步入微信朋友圈记录记录生活的状态。</p><p>其实我想这也是大家普遍的使用经历：享受一个由自己主导、关于自己的空间。</p><p>但是我想，人不能总是重复相同的事情，因为我们很难从同样的行为中获得新的体验，因此我打算把这个空间作为一个正经点记录自己的见闻、感悟和学习的地方。</p><hr><p>*得说，免费可能才是关键因素吧/笑</p><p>*话虽如此，按我的性子还是喜欢自由自在地随便写写东西……</p><p>2021年4月19日 16:33</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>说说</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>my first blog</title>
+    <link href="/2021/04/07/article-title/"/>
+    <url>/2021/04/07/article-title/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><br><span class="hljs-section"># Header 1</span><br><span class="hljs-section">## Header 2</span><br><span class="hljs-section">### Header 3</span><br><br><span class="hljs-bullet">-</span> Bulleted<br><span class="hljs-bullet">-</span> List<br><br><span class="hljs-bullet">1.</span> Numbered<br><span class="hljs-bullet">2.</span> List<br><br><span class="hljs-strong">**Bold**</span> and <span class="hljs-emphasis">_Italic_</span> and <span class="hljs-code">`Code`</span> text<br><br>[<span class="hljs-string">Link</span>](<span class="hljs-link">url</span>) and ![<span class="hljs-string">Image</span>](<span class="hljs-link">src</span>)<br></code></pre></td></tr></table></figure><p>see <a href="https://lannbin.github.io/">main page</a>.</p><hr><p>便签</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs markdown">&#123;% note success %&#125;<br>如何？<br>&#123;% endnote %&#125;<br></code></pre></td></tr></table></figure><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;note note-primary&quot;</span>&gt;</span>第一<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span><br></code></pre></td></tr></table></figure><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;note note-secondary&quot;</span>&gt;</span>第二<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span><br></code></pre></td></tr></table></figure><p>行内标签</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs markdown">&#123;% label primary 这时一行 %&#125;<br></code></pre></td></tr></table></figure><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">span</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;label label-primary&quot;</span>&gt;</span>我是标签<span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span><br></code></pre></td></tr></table></figure><p>勾选框</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs markdown">&#123;% cb 任务1, checked?, incline? %&#125;<br>&#123;% cb 任务2, checked?, incline? %&#125;<br></code></pre></td></tr></table></figure><p>按钮</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs markdown">&#123;% btn https://lannbin.github.io/, 主页, Lannbin&#x27;s blog %&#125;<br></code></pre></td></tr></table></figure><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;btn&quot;</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;https://lannbin.github.io/&quot;</span> <span class="hljs-attr">title</span>=<span class="hljs-string">&quot;Lannbin&#x27;s blog&quot;</span>&gt;</span>主页<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span><br></code></pre></td></tr></table></figure><h4 id="组图"><a href="#组图" class="headerlink" title="组图"></a>组图</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs markdown">&#123;% gi total n1-n2-... %&#125;<br>  ![](url)<br>  ![](url)<br>  ![](url)<br>  ![](url)<br>  ![](url)<br>&#123;% endgi %&#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>trial</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/04/07/hello-world/"/>
+    <url>/2021/04/07/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>trial</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
